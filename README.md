@@ -1,2 +1,2 @@
 # learningIBM
-for learning purposes
+This is the reposiory for my Coursera IBM course.
